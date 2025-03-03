@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+  color: #fff;
+}
+
+body{
+  background-color: #111;
+  margin: 10px;
+}
+
+.box{
+  height: 150px;
+  width: 150px;
+  background-color: rgb(25, 95, 44);
+  border: 1px solid yellow;
+}
